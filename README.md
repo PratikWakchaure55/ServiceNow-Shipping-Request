@@ -10,6 +10,7 @@ For this project, our goal was to create a service catalog item form for a shipp
 - UI Policy Actions
 - Workflows
 - Catalog Scripts
+- Choice Lists
 - GlideForms, GlideSystems, GlideAjax, GlideRecords
 - EventQueues
 - Notifications
